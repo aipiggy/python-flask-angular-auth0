@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlalchemy = "*"
+psycopg2-binary = "*"
+pymysql = "*"
+flask = "*"
+marshmallow = "*"
+flask-cors = "*"
+python-jose-cryptodome = "*"
+alembic = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

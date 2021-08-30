@@ -10,7 +10,7 @@ https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-
 
 ## Server Dependancies ##
 
-From a pipenv shell, install sqlalchemy psycopg2-binary pymysql flask marshmallow flask-cors
+From a pipenv shell, install sqlalchemy psycopg2-binary pymysql flask marshmallow flask-cors jose
 
 ## Running the server ##
 

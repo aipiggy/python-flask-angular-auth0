@@ -10,7 +10,11 @@ https://auth0.com/blog/using-python-flask-and-angular-to-build-modern-apps-part-
 
 ## Server Dependancies ##
 
-From a pipenv shell, install sqlalchemy psycopg2-binary pymysql flask marshmallow flask-cors jose
+From the backend folder
+
+`pipenv sync && pipenv shell && python src\main.py`
+ 
+Or install these packages in your environment with python 3.7.7; sqlalchemy psycopg2-binary pymysql flask marshmallow flask-cors jose
 
 ## Running the server ##
 
